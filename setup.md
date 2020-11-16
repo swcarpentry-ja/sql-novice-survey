@@ -1,6 +1,8 @@
 ---
 layout: page
 title: Setup
+root: ..
+permalink: /setup/
 ---
 # Software
 For this course you will need the UNIX shell, plus [SQLite3](http://www.sqlite.org/) or
